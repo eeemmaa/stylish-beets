@@ -49,3 +49,6 @@ blockquote {
 .chris {
   font-size: 0.8rem;
 }
+ol {
+list-style-type: lower-greek;
+}
