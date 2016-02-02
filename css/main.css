@@ -52,3 +52,9 @@ blockquote {
 ol {
 list-style-type: lower-greek;
 }
+.servingstyle {
+  font-style: italic;
+}
+dl dt {
+  font-weight: 700;
+}
