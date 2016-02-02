@@ -58,3 +58,7 @@ list-style-type: lower-greek;
 dl dt {
   font-weight: 700;
 }
+ul {
+  list-style-type: circle;
+  font-size: 0.8rem;
+}
