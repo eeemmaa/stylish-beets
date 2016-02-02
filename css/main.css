@@ -62,3 +62,10 @@ ul {
   list-style-type: circle;
   font-size: 0.8rem;
 }
+footer {
+  font-size: 0.8rem;
+}
+#Wikipedia{
+  color: #8d2c3f;
+  text-decoration: none;
+}
