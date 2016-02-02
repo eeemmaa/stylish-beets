@@ -31,3 +31,7 @@ nav a:hover {
   color: #340c24;
   text-decoration: underline;
 }
+figcaption {
+  text-align: center;
+  font-style: italic;
+}
