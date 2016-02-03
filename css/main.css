@@ -1,4 +1,4 @@
-body {
+html {
   background-color: #c9b5ae;
   font-family: "PT Serif", serif;
 }
@@ -25,15 +25,18 @@ nav ol {
   list-style-type: none;
 }
 
-nav a {
-  color: #8d2c3f;
-  text-decoration: none;
+nav {
   font-size: 1.2rem;
   font-family: "PT Sans", sans-serif;
   font-weight: 700;
 }
 
-nav a:hover {
+a {
+  color: #8d2c3f;
+  text-decoration: none;
+}
+
+a:hover {
   color: #340c24;
   text-decoration: underline;
 }
